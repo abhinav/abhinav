@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v3
+    - uses: muesli/readme-scribe@v0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+      with:
+        template: "templates/README.md.tpl"
+        writeTo: "README.md"
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        file_pattern: README.md
+        commit_message: 'Update README.md'
