@@ -23,20 +23,20 @@ I'm Abhinav.
 ### ✨ Recent releases I contributed to
 
 
-- [stacked-git/stgit](https://github.com/stacked-git/stgit) ([v2.3.2](https://github.com/stacked-git/stgit/releases/tag/v2.3.2), 3 days ago)
-- [yuin/goldmark](https://github.com/yuin/goldmark) ([v1.5.6](https://github.com/yuin/goldmark/releases/tag/v1.5.6), 6 days ago)
-- [ajyey/masked-email-manager](https://github.com/ajyey/masked-email-manager) ([v1.3.0](https://github.com/ajyey/masked-email-manager/releases/tag/v1.3.0), 6 days ago)
-- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) ([v3.57.0](https://github.com/pulumi/pulumi-terraform-bridge/releases/tag/v3.57.0), 1 week ago)
-- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) ([v1.2.1](https://github.com/pulumi/pulumi-yaml/releases/tag/v1.2.1), 1 week ago)
+- [pulumi/pulumi-dotnet](https://github.com/pulumi/pulumi-dotnet) ([v3.56.1](https://github.com/pulumi/pulumi-dotnet/releases/tag/v3.56.1), 1 day ago)
+- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) ([v0.9.6](https://github.com/pulumi/pulumi-java/releases/tag/v0.9.6), 1 day ago)
+- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) ([v1.2.2](https://github.com/pulumi/pulumi-yaml/releases/tag/v1.2.2), 1 day ago)
+- [stacked-git/stgit](https://github.com/stacked-git/stgit) ([v2.3.2](https://github.com/stacked-git/stgit/releases/tag/v2.3.2), 4 days ago)
+- [yuin/goldmark](https://github.com/yuin/goldmark) ([v1.5.6](https://github.com/yuin/goldmark/releases/tag/v1.5.6), 1 week ago)
 
 
 ### 🪵 Ongoing work
 
 
-- [lmittmann/tint](https://github.com/lmittmann/tint) (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
+- [lmittmann/tint](https://github.com/lmittmann/tint) (3 days ago)
 - [ajyey/masked-email-manager](https://github.com/ajyey/masked-email-manager) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 week ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
