@@ -23,20 +23,20 @@ I'm Abhinav.
 ### ✨ Recent releases I contributed to
 
 
-- [pulumi/pulumi-dotnet](https://github.com/pulumi/pulumi-dotnet) ([v3.56.1](https://github.com/pulumi/pulumi-dotnet/releases/tag/v3.56.1), 1 day ago)
-- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) ([v0.9.6](https://github.com/pulumi/pulumi-java/releases/tag/v0.9.6), 1 day ago)
-- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) ([v1.2.2](https://github.com/pulumi/pulumi-yaml/releases/tag/v1.2.2), 1 day ago)
-- [stacked-git/stgit](https://github.com/stacked-git/stgit) ([v2.3.2](https://github.com/stacked-git/stgit/releases/tag/v2.3.2), 4 days ago)
-- [yuin/goldmark](https://github.com/yuin/goldmark) ([v1.5.6](https://github.com/yuin/goldmark/releases/tag/v1.5.6), 1 week ago)
+- [pulumi/pulumi-command](https://github.com/pulumi/pulumi-command) ([v0.8.2](https://github.com/pulumi/pulumi-command/releases/tag/v0.8.2), today)
+- [pulumi/pulumi-awsx](https://github.com/pulumi/pulumi-awsx) ([v1.0.5](https://github.com/pulumi/pulumi-awsx/releases/tag/v1.0.5), 1 day ago)
+- [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.3](https://github.com/mgechev/revive/releases/tag/v1.3.3), 1 day ago)
+- [pulumi/pulumi-dotnet](https://github.com/pulumi/pulumi-dotnet) ([v3.56.1](https://github.com/pulumi/pulumi-dotnet/releases/tag/v3.56.1), 2 days ago)
+- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) ([v0.9.6](https://github.com/pulumi/pulumi-java/releases/tag/v0.9.6), 2 days ago)
 
 
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [lmittmann/tint](https://github.com/lmittmann/tint) (3 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [lmittmann/tint](https://github.com/lmittmann/tint) (4 days ago)
 - [ajyey/masked-email-manager](https://github.com/ajyey/masked-email-manager) (1 week ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (2 weeks ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
