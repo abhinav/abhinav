@@ -14,13 +14,6 @@ I'm Abhinav.
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-### ✨ Recent releases I contributed to
-
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
-{{- end}}
-
-
 ### 🪵 Ongoing work
 
 {{range recentContributions 5}}
