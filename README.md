@@ -20,20 +20,10 @@ I'm Abhinav.
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) - Go linter that checks for required fields in structs.
 - [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) - Adds support for YAML and TOML front matter to Markdown documents.
 
-### ✨ Recent releases I contributed to
-
-
-- [lmittmann/tint](https://github.com/lmittmann/tint) ([v1.0.1](https://github.com/lmittmann/tint/releases/tag/v1.0.1), 2 days ago)
-- [pulumi/pulumi-command](https://github.com/pulumi/pulumi-command) ([v0.8.2](https://github.com/pulumi/pulumi-command/releases/tag/v0.8.2), 3 days ago)
-- [pulumi/pulumi-awsx](https://github.com/pulumi/pulumi-awsx) ([v1.0.5](https://github.com/pulumi/pulumi-awsx/releases/tag/v1.0.5), 4 days ago)
-- [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.3](https://github.com/mgechev/revive/releases/tag/v1.3.3), 4 days ago)
-- [pulumi/pulumi-dotnet](https://github.com/pulumi/pulumi-dotnet) ([v3.56.1](https://github.com/pulumi/pulumi-dotnet/releases/tag/v3.56.1), 5 days ago)
-
-
 ### 🪵 Ongoing work
 
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 day ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) (today)
 - [abhinav/shon-go](https://github.com/abhinav/shon-go) (1 day ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
 - [lmittmann/tint](https://github.com/lmittmann/tint) (1 week ago)
