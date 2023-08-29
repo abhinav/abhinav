@@ -23,9 +23,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (today)
-- [abhinav/shon-go](https://github.com/abhinav/shon-go) (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 day ago)
+- [abhinav/shon-go](https://github.com/abhinav/shon-go) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
 - [lmittmann/tint](https://github.com/lmittmann/tint) (1 week ago)
 - [ajyey/masked-email-manager](https://github.com/ajyey/masked-email-manager) (2 weeks ago)
 
