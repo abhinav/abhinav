@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) (2 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (4 days ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (5 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) (3 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (5 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) (6 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
