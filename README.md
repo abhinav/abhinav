@@ -23,9 +23,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
-- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) (4 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (6 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
+- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) (5 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 
