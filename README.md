@@ -8,7 +8,7 @@ I'm Abhinav.
 - [Designing Go Libraries: The Talk: The Article](https://abhinavg.net/2022/12/06/designing-go-libraries/) (9 months ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (9 months ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (10 months ago)
-- [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (11 months ago)
+- [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (1 year ago)
 - [Subcommands with Go’s flag package](https://abhinavg.net/2022/08/13/flag-subcommand/) (1 year ago)
 
 ### 🌱 Newest projects
@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
-- [pulumi/pulumi-yaml](https://github.com/pulumi/pulumi-yaml) (1 week ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 week ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (today)
+- [uber/go.uber.org](https://github.com/uber/go.uber.org) (1 day ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 day ago)
+- [golang/go](https://github.com/golang/go) (1 day ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
