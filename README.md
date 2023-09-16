@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [Designing Go Libraries: The Talk: The Article](https://abhinavg.net/2022/12/06/designing-go-libraries/) (9 months ago)
+- [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (9 months ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (9 months ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (10 months ago)
 - [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (1 year ago)
@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (today)
 - [uber-go/cff](https://github.com/uber-go/cff) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (1 day ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) (2 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
