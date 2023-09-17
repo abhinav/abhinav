@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/cff](https://github.com/uber-go/cff) (1 day ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) (2 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
+- [miniscruff/changie](https://github.com/miniscruff/changie) (1 day ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 days ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
