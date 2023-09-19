@@ -6,7 +6,7 @@ I'm Abhinav.
 
 
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (9 months ago)
-- [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (9 months ago)
+- [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (10 months ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (10 months ago)
 - [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (1 year ago)
 - [Subcommands with Go’s flag package](https://abhinavg.net/2022/08/13/flag-subcommand/) (1 year ago)
@@ -24,9 +24,9 @@ I'm Abhinav.
 
 
 - [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
-- [miniscruff/changie](https://github.com/miniscruff/changie) (2 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 days ago)
-- [uber-go/cff](https://github.com/uber-go/cff) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (3 days ago)
+- [miniscruff/changie](https://github.com/miniscruff/changie) (3 days ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (4 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
