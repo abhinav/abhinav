@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/presentation-go-patterns-2022](https://github.com/abhinav/presentation-go-patterns-2022) (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (5 days ago)
-- [miniscruff/changie](https://github.com/miniscruff/changie) (5 days ago)
+- [abhinav/presentation-go-patterns-2022](https://github.com/abhinav/presentation-go-patterns-2022) (3 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (6 days ago)
+- [miniscruff/changie](https://github.com/miniscruff/changie) (6 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
