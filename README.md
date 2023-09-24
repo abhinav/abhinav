@@ -23,9 +23,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/presentation-go-patterns-2022](https://github.com/abhinav/presentation-go-patterns-2022) (4 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (today)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/presentation-go-patterns-2022](https://github.com/abhinav/presentation-go-patterns-2022) (5 days ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [miniscruff/changie](https://github.com/miniscruff/changie) (1 week ago)
 
