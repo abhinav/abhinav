@@ -15,18 +15,18 @@ I'm Abhinav.
 
 
 - [abhinav/unexportedglobal](https://github.com/abhinav/unexportedglobal) - Linter for Go requiring &#39;_&#39; prefix on unexported globals.
+- [abhinav/future-proof-packages-2023](https://github.com/abhinav/future-proof-packages-2023)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) - Stitch together Markdown files with stitchmd.
 - [abhinav/ring-go](https://github.com/abhinav/ring-go) - Efficient, general-purpose FIFO queue backed by a ring buffer.
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) - Go linter that checks for required fields in structs.
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) - Adds support for YAML and TOML front matter to Markdown documents.
 
 ### 🪵 Ongoing work
 
 
+- [abhinav/future-proof-packages-2023](https://github.com/abhinav/future-proof-packages-2023) (today)
 - [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/presentation-go-patterns-2022](https://github.com/abhinav/presentation-go-patterns-2022) (1 week ago)
-- [miniscruff/changie](https://github.com/miniscruff/changie) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
