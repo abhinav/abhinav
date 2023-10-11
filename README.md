@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (1 week ago)
+- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (2 weeks ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (10 months ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (10 months ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (11 months ago)
@@ -23,8 +23,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (6 days ago)
 - [abhinav/shon-go](https://github.com/abhinav/shon-go) (1 week ago)
 - [abhinav/future-proof-packages-2023](https://github.com/abhinav/future-proof-packages-2023) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
