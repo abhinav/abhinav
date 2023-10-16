@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [uber-go/multierr](https://github.com/uber-go/multierr) (4 days ago)
-- [bufbuild/protoyaml-go](https://github.com/bufbuild/protoyaml-go) (4 days ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 week ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (1 week ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 day ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 day ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
