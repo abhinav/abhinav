@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (2 weeks ago)
+- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (3 weeks ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (10 months ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (10 months ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (11 months ago)
@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 days ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (3 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (3 days ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (3 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (3 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
