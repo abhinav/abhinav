@@ -8,7 +8,7 @@ I'm Abhinav.
 - [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (1 month ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (11 months ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (11 months ago)
-- [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (11 months ago)
+- [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (1 year ago)
 - [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (1 year ago)
 
 ### 🌱 Newest projects
@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/pinch](https://github.com/abhinav/pinch) (1 day ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [uber-go/cff](https://github.com/uber-go/cff) (4 days ago)
+- [abhinav/pinch](https://github.com/abhinav/pinch) (2 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (5 days ago)
 - [uber-go/goleak](https://github.com/uber-go/goleak) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
