@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [kisielk/errcheck](https://github.com/kisielk/errcheck) (1 day ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 days ago)
-- [abhinav/pinch](https://github.com/abhinav/pinch) (3 days ago)
-- [uber-go/cff](https://github.com/uber-go/cff) (6 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 day ago)
+- [kisielk/errcheck](https://github.com/kisielk/errcheck) (2 days ago)
+- [abhinav/pinch](https://github.com/abhinav/pinch) (4 days ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
