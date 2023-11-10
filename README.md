@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 day ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (5 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (6 days ago)
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
