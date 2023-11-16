@@ -23,9 +23,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
 
