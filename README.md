@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (1 month ago)
+- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (2 months ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (11 months ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (1 year ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (1 year ago)
@@ -23,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 day ago)
-- [bracesdev/braces.dev](https://github.com/bracesdev/braces.dev) (1 day ago)
-- [abhinav/fsrun-go](https://github.com/abhinav/fsrun-go) (6 days ago)
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) (6 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 days ago)
+- [bracesdev/braces.dev](https://github.com/bracesdev/braces.dev) (2 days ago)
+- [abhinav/fsrun-go](https://github.com/abhinav/fsrun-go) (1 week ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
