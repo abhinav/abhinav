@@ -8,7 +8,6 @@ require (
 	github.com/KyleBanks/goodreads v0.0.0-20200527082926-28539417959b // indirect
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
-	github.com/caarlos0/env/v6 v6.10.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -24,5 +23,3 @@ require (
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
-
-replace github.com/muesli/markscribe => github.com/abhinav/markscribe v0.6.1-0.20231129060440-69a0989537cb
