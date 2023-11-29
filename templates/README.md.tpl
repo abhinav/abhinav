@@ -8,15 +8,9 @@ I'm Abhinav.
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### 🌱 Newest projects
-
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
 ### 🪵 Ongoing work
 
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
