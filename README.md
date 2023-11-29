@@ -11,15 +11,6 @@ I'm Abhinav.
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (1 year ago)
 - [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (1 year ago)
 
-### 🌱 Newest projects
-
-
-- [abhinav/unexportedglobal](https://github.com/abhinav/unexportedglobal) - Linter for Go requiring &#39;_&#39; prefix on unexported globals.
-- [abhinav/future-proof-packages-2023](https://github.com/abhinav/future-proof-packages-2023) - My talk from Gophercon 2023.
-- [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) - Stitch together Markdown files with stitchmd.
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) - Efficient, general-purpose FIFO queue backed by a ring buffer.
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) - Go linter that checks for required fields in structs.
-
 ### 🪵 Ongoing work
 
 
@@ -28,5 +19,10 @@ I'm Abhinav.
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 day ago)
 - [bracesdev/braces.dev](https://github.com/bracesdev/braces.dev) (2 days ago)
 - [abhinav/restack](https://github.com/abhinav/restack) (2 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (5 days ago)
+- [abhinav/fsrun-go](https://github.com/abhinav/fsrun-go) (1 week ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
