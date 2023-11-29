@@ -14,6 +14,7 @@ I'm Abhinav.
 ### 🌱 Newest projects
 
 
+- [abhinav/unexportedglobal](https://github.com/abhinav/unexportedglobal) - Linter for Go requiring &#39;_&#39; prefix on unexported globals.
 - [abhinav/future-proof-packages-2023](https://github.com/abhinav/future-proof-packages-2023) - My talk from Gophercon 2023.
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) - Stitch together Markdown files with stitchmd.
 - [abhinav/ring-go](https://github.com/abhinav/ring-go) - Efficient, general-purpose FIFO queue backed by a ring buffer.
@@ -22,10 +23,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
 - [bracesdev/.github](https://github.com/bracesdev/.github) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 day ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (2 days ago)
 - [bracesdev/braces.dev](https://github.com/bracesdev/braces.dev) (2 days ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (2 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
