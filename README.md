@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [alecthomas/kong](https://github.com/alecthomas/kong) (2 days ago)
-- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (4 days ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (3 days ago)
+- [alecthomas/kong](https://github.com/alecthomas/kong) (3 days ago)
+- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (5 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (6 days ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
