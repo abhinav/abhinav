@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (4 days ago)
-- [alecthomas/kong](https://github.com/alecthomas/kong) (4 days ago)
-- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (6 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (5 days ago)
+- [alecthomas/kong](https://github.com/alecthomas/kong) (5 days ago)
+- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [bracesdev/.github](https://github.com/bracesdev/.github) (2 weeks ago)
-- [bracesdev/braces.dev](https://github.com/bracesdev/braces.dev) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
