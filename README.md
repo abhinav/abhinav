@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (5 days ago)
-- [alecthomas/kong](https://github.com/alecthomas/kong) (5 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (6 days ago)
+- [alecthomas/kong](https://github.com/alecthomas/kong) (6 days ago)
 - [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
