@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 day ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 days ago)
+- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
 - [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
 - [abhinav/fsrun-go](https://github.com/abhinav/fsrun-go) (1 week ago)
 - [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 week ago)
