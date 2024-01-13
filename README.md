@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (4 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [abhinav/pinch](https://github.com/abhinav/pinch) (4 days ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (6 days ago)
-- [uber-go/cff](https://github.com/uber-go/cff) (6 days ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [abhinav/pinch](https://github.com/abhinav/pinch) (5 days ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (1 week ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (1 week ago)
 - [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 weeks ago)
 - [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (2 weeks ago)
