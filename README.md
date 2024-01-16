@@ -21,8 +21,8 @@ I'm Abhinav.
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (1 week ago)
 - [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 weeks ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (3 weeks ago)
-- [abhinav/shon-go](https://github.com/abhinav/shon-go) (3 weeks ago)
 - [abhinav/ring-go](https://github.com/abhinav/ring-go) (3 weeks ago)
+- [abhinav/shon-go](https://github.com/abhinav/shon-go) (3 weeks ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
