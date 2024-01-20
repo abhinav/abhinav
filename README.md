@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (1 day ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/pinch](https://github.com/abhinav/pinch) (1 week ago)
-- [uber-go/cff](https://github.com/uber-go/cff) (1 week ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
+- [uber-go/cff](https://github.com/uber-go/cff) (2 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (2 weeks ago)
 - [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (3 weeks ago)
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) (3 weeks ago)
-- [abhinav/shon-go](https://github.com/abhinav/shon-go) (3 weeks ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
