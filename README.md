@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (1 day ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
+- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (2 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/pinch](https://github.com/abhinav/pinch) (1 week ago)
