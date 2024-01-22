@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 day ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 week ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [abhinav/pinch](https://github.com/abhinav/pinch) (1 week ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 day ago)
+- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (3 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
+- [abhinav/pinch](https://github.com/abhinav/pinch) (2 weeks ago)
 - [uber-go/cff](https://github.com/uber-go/cff) (2 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (2 weeks ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
