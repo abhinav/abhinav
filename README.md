@@ -14,14 +14,14 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 days ago)
-- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (4 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (4 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (3 days ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 days ago)
+- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (5 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
 - [abhinav/pinch](https://github.com/abhinav/pinch) (2 weeks ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
 - [uber-go/cff](https://github.com/uber-go/cff) (2 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (2 weeks ago)
 
