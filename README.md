@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 days ago)
-- [sam701/zig-toml](https://github.com/sam701/zig-toml) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (3 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (5 days ago)
-- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (1 week ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 days ago)
+- [sam701/zig-toml](https://github.com/sam701/zig-toml) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (4 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (6 days ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [abhinav/pinch](https://github.com/abhinav/pinch) (3 weeks ago)
+- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (1 week ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (3 weeks ago)
+- [abhinav/pinch](https://github.com/abhinav/pinch) (3 weeks ago)
 - [uber-go/cff](https://github.com/uber-go/cff) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
