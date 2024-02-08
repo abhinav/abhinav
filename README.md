@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/fx](https://github.com/uber-go/fx) (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [cashapp/hermit](https://github.com/cashapp/hermit) (2 days ago)
-- [urfave/gimme](https://github.com/urfave/gimme) (5 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (3 days ago)
+- [urfave/gimme](https://github.com/urfave/gimme) (6 days ago)
 - [sam701/zig-toml](https://github.com/sam701/zig-toml) (1 week ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
