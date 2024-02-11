@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [urfave/gimme](https://github.com/urfave/gimme) (4 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
-- [cashapp/hermit](https://github.com/cashapp/hermit) (5 days ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
+- [facebook/dotslash](https://github.com/facebook/dotslash) (today)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [urfave/gimme](https://github.com/urfave/gimme) (5 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (5 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (6 days ago)
 - [sam701/zig-toml](https://github.com/sam701/zig-toml) (2 weeks ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 weeks ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 weeks ago)
-- [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
