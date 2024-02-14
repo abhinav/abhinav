@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) (2 days ago)
-- [facebook/dotslash](https://github.com/facebook/dotslash) (2 days ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 days ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 days ago)
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) (2 days ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (2 days ago)
+- [uber-go/dig](https://github.com/uber-go/dig) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 day ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (2 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (3 days ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (3 days ago)
+- [abhinav/shon-go](https://github.com/abhinav/shon-go) (3 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
