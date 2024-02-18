@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (3 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (4 days ago)
-- [uber-go/dig](https://github.com/uber-go/dig) (4 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (5 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (6 days ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (6 days ago)
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) (6 days ago)
-- [abhinav/shon-go](https://github.com/abhinav/shon-go) (6 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
+- [uber-go/dig](https://github.com/uber-go/dig) (5 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (5 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (6 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 week ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
