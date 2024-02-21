@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (6 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
 - [uber-go/dig](https://github.com/uber-go/dig) (1 week ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 week ago)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 week ago)
 - [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
