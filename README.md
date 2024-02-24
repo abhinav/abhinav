@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (4 months ago)
+- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (5 months ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (1 year ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (1 year ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (1 year ago)
@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (3 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
 - [uber-go/dig](https://github.com/uber-go/dig) (1 week ago)
 - [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
