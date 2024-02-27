@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (6 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (6 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
-- [uber-go/dig](https://github.com/uber-go/dig) (1 week ago)
+- [uber-go/dig](https://github.com/uber-go/dig) (1 day ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (1 week ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) (2 weeks ago)
-- [abhinav/shon-go](https://github.com/abhinav/shon-go) (2 weeks ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (2 weeks ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
