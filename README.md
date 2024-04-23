@@ -16,7 +16,7 @@ I'm Abhinav.
 
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 week ago)
-- [alecthomas/kong-yaml](https://github.com/alecthomas/kong-yaml) (1 week ago)
+- [alecthomas/kong-yaml](https://github.com/alecthomas/kong-yaml) (2 weeks ago)
 - [abhinav/language-thrift](https://github.com/abhinav/language-thrift) (2 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (2 weeks ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) (3 weeks ago)
