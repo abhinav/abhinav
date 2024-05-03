@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (today)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 day ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 day ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 day ago)
 - [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
 - [alecthomas/kong-yaml](https://github.com/alecthomas/kong-yaml) (3 weeks ago)
-- [abhinav/language-thrift](https://github.com/abhinav/language-thrift) (3 weeks ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (4 weeks ago)
+- [abhinav/language-thrift](https://github.com/abhinav/language-thrift) (4 weeks ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) (1 month ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (2 months ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 months ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 months ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
