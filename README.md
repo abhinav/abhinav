@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [ziglang/zig](https://github.com/ziglang/zig) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [ziglang/zig](https://github.com/ziglang/zig) (2 days ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (6 days ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
