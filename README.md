@@ -7,21 +7,21 @@ I'm Abhinav.
 
 - [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (7 months ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (1 year ago)
-- [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (1 year ago)
+- [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (2 years ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (2 years ago)
 - [Go Patterns and Practices](https://abhinavg.net/2022/09/19/go-patterns-and-practices-talk/) (2 years ago)
 
 ### 🪵 Ongoing work
 
 
-- [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream) (1 day ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [ziglang/zig](https://github.com/ziglang/zig) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream) (2 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (4 days ago)
+- [ziglang/zig](https://github.com/ziglang/zig) (6 days ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 week ago)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 weeks ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 weeks ago)
 - [alecthomas/kong-yaml](https://github.com/alecthomas/kong-yaml) (1 month ago)
 - [abhinav/language-thrift](https://github.com/abhinav/language-thrift) (1 month ago)
 
