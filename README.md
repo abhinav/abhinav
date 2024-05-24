@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (7 months ago)
+- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (8 months ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (1 year ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (2 years ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (2 years ago)
@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
 - [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
-- [ziglang/zig](https://github.com/ziglang/zig) (1 week ago)
+- [ziglang/zig](https://github.com/ziglang/zig) (2 weeks ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 weeks ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (3 weeks ago)
