@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
 - [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (2 weeks ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (3 weeks ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 weeks ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (3 weeks ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (3 weeks ago)
