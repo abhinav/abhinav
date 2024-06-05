@@ -18,7 +18,7 @@ I'm Abhinav.
 - [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream) (3 weeks ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (3 weeks ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (4 weeks ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 month ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 month ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 month ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 month ago)
