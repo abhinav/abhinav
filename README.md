@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/buf-include_imports-strategy-repro](https://github.com/abhinav/buf-include_imports-strategy-repro) (5 days ago)
-- [temporalio/sdk-go](https://github.com/temporalio/sdk-go) (5 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [temporalio/sdk-go](https://github.com/temporalio/sdk-go) (6 days ago)
+- [abhinav/buf-include_imports-strategy-repro](https://github.com/abhinav/buf-include_imports-strategy-repro) (6 days ago)
 - [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream) (4 weeks ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 month ago)
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 month ago)
 - [ziglang/zig](https://github.com/ziglang/zig) (1 month ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 month ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 month ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 month ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
