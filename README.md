@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (1 day ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [cashapp/hermit](https://github.com/cashapp/hermit) (6 days ago)
+- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) (2 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (3 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) (1 week ago)
