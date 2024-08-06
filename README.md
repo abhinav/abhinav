@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/restack](https://github.com/abhinav/restack) (3 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (4 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (3 weeks ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (3 weeks ago)
 - [abhinav/pinch](https://github.com/abhinav/pinch) (4 weeks ago)
