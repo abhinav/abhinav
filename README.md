@@ -15,11 +15,11 @@ I'm Abhinav.
 
 
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (5 days ago)
-- [uber-go/guide](https://github.com/uber-go/guide) (6 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (6 days ago)
+- [uber-go/guide](https://github.com/uber-go/guide) (1 week ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (2 weeks ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 month ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 month ago)
 - [abhinav/pinch](https://github.com/abhinav/pinch) (1 month ago)
