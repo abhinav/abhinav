@@ -14,8 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (today)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
 - [uber-go/guide](https://github.com/uber-go/guide) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
@@ -23,6 +24,5 @@ I'm Abhinav.
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 month ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 month ago)
 - [abhinav/pinch](https://github.com/abhinav/pinch) (1 month ago)
-- [abhinav/language-thrift](https://github.com/abhinav/language-thrift) (1 month ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
