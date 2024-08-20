@@ -14,12 +14,12 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
-- [uber-go/guide](https://github.com/uber-go/guide) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
+- [uber-go/guide](https://github.com/uber-go/guide) (1 week ago)
 - [abhinav/restack](https://github.com/abhinav/restack) (2 weeks ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 month ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 month ago)
