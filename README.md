@@ -5,7 +5,7 @@ I'm Abhinav.
 ### ✍️ Latest writing
 
 
-- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (10 months ago)
+- [GopherCon 2023: Future-Proof Go Packages](https://abhinavg.net/2023/09/27/future-proof-packages/) (11 months ago)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/) (2 years ago)
 - [Introduction to generics in Go](https://abhinavg.net/2022/11/23/generics-intro/) (2 years ago)
 - [Bare minimum semantic versioning](https://abhinavg.net/2022/11/07/semver/) (2 years ago)
@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [uber-go/guide](https://github.com/uber-go/guide) (1 week ago)
