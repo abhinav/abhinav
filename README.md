@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [DataDog/datadog-go](https://github.com/DataDog/datadog-go) (1 day ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [uber-go/guide](https://github.com/uber-go/guide) (1 week ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (2 weeks ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
+- [uber-go/guide](https://github.com/uber-go/guide) (2 weeks ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (3 weeks ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 month ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 month ago)
-- [abhinav/pinch](https://github.com/abhinav/pinch) (1 month ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
