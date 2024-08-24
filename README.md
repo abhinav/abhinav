@@ -14,13 +14,13 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [DataDog/datadog-go](https://github.com/DataDog/datadog-go) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [DataDog/datadog-go](https://github.com/DataDog/datadog-go) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (6 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
 - [uber-go/guide](https://github.com/uber-go/guide) (2 weeks ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
 - [abhinav/restack](https://github.com/abhinav/restack) (3 weeks ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 month ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 month ago)
