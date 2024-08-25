@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [DataDog/datadog-go](https://github.com/DataDog/datadog-go) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (6 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [DataDog/datadog-go](https://github.com/DataDog/datadog-go) (3 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (1 week ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
 - [uber-go/guide](https://github.com/uber-go/guide) (2 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
