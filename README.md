@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
-- [pluginrpc/.github](https://github.com/pluginrpc/.github) (3 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
+- [abhinav/zig-dotslash](https://github.com/abhinav/zig-dotslash) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
+- [pluginrpc/.github](https://github.com/pluginrpc/.github) (4 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (5 days ago)
 - [DataDog/datadog-go](https://github.com/DataDog/datadog-go) (1 week ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (1 week ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 weeks ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 weeks ago)
 - [uber-go/guide](https://github.com/uber-go/guide) (3 weeks ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (4 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
