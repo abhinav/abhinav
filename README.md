@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (5 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (6 days ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (1 week ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
