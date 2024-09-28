@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (2 weeks ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (3 weeks ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (3 weeks ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (3 weeks ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 weeks ago)
