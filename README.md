@@ -15,8 +15,8 @@ I'm Abhinav.
 
 
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [abhinav/stub-go](https://github.com/abhinav/stub-go) (1 week ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
+- [abhinav/stub-go](https://github.com/abhinav/stub-go) (2 weeks ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 weeks ago)
 - [abhinav/komplete](https://github.com/abhinav/komplete) (2 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
