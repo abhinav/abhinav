@@ -20,7 +20,7 @@ I'm Abhinav.
 - [abhinav/komplete](https://github.com/abhinav/komplete) (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 weeks ago)
 - [abhinav/restack](https://github.com/abhinav/restack) (1 month ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (1 month ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 month ago)
