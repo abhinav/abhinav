@@ -14,7 +14,7 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 weeks ago)
 - [abhinav/stub-go](https://github.com/abhinav/stub-go) (2 weeks ago)
