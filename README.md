@@ -14,14 +14,14 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (6 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 - [abhinav/stub-go](https://github.com/abhinav/stub-go) (3 weeks ago)
 - [abhinav/komplete](https://github.com/abhinav/komplete) (3 weeks ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 weeks ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (4 weeks ago)
 - [abhinav/restack](https://github.com/abhinav/restack) (1 month ago)
 - [abhinav/zig-dotslash](https://github.com/abhinav/zig-dotslash) (1 month ago)
 
