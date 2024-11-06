@@ -14,7 +14,7 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
@@ -22,7 +22,7 @@ I'm Abhinav.
 - [abhinav/stub-go](https://github.com/abhinav/stub-go) (1 month ago)
 - [abhinav/komplete](https://github.com/abhinav/komplete) (1 month ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 month ago)
-- [abhinav/restack](https://github.com/abhinav/restack) (1 month ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (2 months ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 months ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
