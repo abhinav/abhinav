@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (4 days ago)
-- [abhinav/huffman-go](https://github.com/abhinav/huffman-go) (5 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (5 days ago)
+- [abhinav/huffman-go](https://github.com/abhinav/huffman-go) (6 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (6 days ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
