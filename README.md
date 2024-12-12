@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) (1 day ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) (2 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/huffman-go](https://github.com/abhinav/huffman-go) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
