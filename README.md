@@ -14,8 +14,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (1 week ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 weeks ago)
