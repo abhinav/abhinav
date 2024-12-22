@@ -17,7 +17,7 @@ I'm Abhinav.
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (1 week ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (3 weeks ago)
 - [abhinav/huffman-go](https://github.com/abhinav/huffman-go) (3 weeks ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 weeks ago)
