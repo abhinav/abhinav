@@ -14,7 +14,7 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (3 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (3 weeks ago)
