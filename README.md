@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
 - [alecthomas/kong](https://github.com/alecthomas/kong) (1 week ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 month ago)
