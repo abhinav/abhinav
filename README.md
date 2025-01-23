@@ -14,14 +14,14 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 days ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (3 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (2 weeks ago)
 - [alecthomas/kong](https://github.com/alecthomas/kong) (2 weeks ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
 
