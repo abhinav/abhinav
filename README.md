@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 day ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 day ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [alecthomas/kong](https://github.com/alecthomas/kong) (4 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (1 week ago)
+- [alecthomas/kong](https://github.com/alecthomas/kong) (5 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 weeks ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 weeks ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (3 weeks ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 month ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 month ago)
-- [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
