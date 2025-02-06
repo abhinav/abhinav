@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (3 days ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (3 days ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (4 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (4 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (4 days ago)
 - [alecthomas/kong](https://github.com/alecthomas/kong) (1 week ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 weeks ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 weeks ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (3 weeks ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (4 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
