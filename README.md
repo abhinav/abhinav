@@ -14,12 +14,12 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [cashapp/hermit](https://github.com/cashapp/hermit) (today)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (6 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (6 days ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (6 days ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 week ago)
 - [alecthomas/kong](https://github.com/alecthomas/kong) (1 week ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 weeks ago)
