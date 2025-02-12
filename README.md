@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/gopatch](https://github.com/uber-go/gopatch) (today)
-- [cashapp/hermit](https://github.com/cashapp/hermit) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) (1 day ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 day ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 week ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
-- [alecthomas/kong](https://github.com/alecthomas/kong) (1 week ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 weeks ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 weeks ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
+- [alecthomas/kong](https://github.com/alecthomas/kong) (2 weeks ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
