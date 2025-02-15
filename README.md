@@ -14,13 +14,13 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (3 days ago)
-- [uber-go/gopatch](https://github.com/uber-go/gopatch) (3 days ago)
-- [cashapp/hermit](https://github.com/cashapp/hermit) (6 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (4 days ago)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) (4 days ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 week ago)
 - [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
