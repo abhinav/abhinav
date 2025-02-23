@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (today)
-- [flyingmutant/rapid](https://github.com/flyingmutant/rapid) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
-- [alecthomas/kong](https://github.com/alecthomas/kong) (6 days ago)
-- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [flyingmutant/rapid](https://github.com/flyingmutant/rapid) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [alecthomas/kong](https://github.com/alecthomas/kong) (1 week ago)
+- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
