@@ -14,12 +14,12 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 day ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 days ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 days ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (6 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (2 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (3 days ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (3 days ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (1 week ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [flyingmutant/rapid](https://github.com/flyingmutant/rapid) (1 week ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
