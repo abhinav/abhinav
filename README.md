@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [cashapp/hermit](https://github.com/cashapp/hermit) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [cashapp/hermit](https://github.com/cashapp/hermit) (6 days ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 week ago)
-- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 weeks ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (2 weeks ago)
 - [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 weeks ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 weeks ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
