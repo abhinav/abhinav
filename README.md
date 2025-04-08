@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [marwan-at-work/mod](https://github.com/marwan-at-work/mod) (2 weeks ago)
+- [marwan-at-work/mod](https://github.com/marwan-at-work/mod) (3 weeks ago)
 - [cashapp/hermit](https://github.com/cashapp/hermit) (4 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 month ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (1 month ago)
