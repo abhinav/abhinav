@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 week ago)
-- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (1 week ago)
-- [abhinav/stub-go](https://github.com/abhinav/stub-go) (1 week ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
+- [abhinav/restack](https://github.com/abhinav/restack) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
 - [abhinav/komplete](https://github.com/abhinav/komplete) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
 - [abhinav/huffman-go](https://github.com/abhinav/huffman-go) (1 week ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (1 week ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (1 week ago)
+- [abhinav/stub-go](https://github.com/abhinav/stub-go) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
