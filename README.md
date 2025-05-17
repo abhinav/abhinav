@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (3 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (5 days ago)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (5 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (6 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (6 days ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (1 week ago)
-- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (1 week ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (1 week ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (1 week ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
+- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (2 weeks ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
