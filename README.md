@@ -14,12 +14,12 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (6 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (5 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (1 week ago)
 - [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (2 weeks ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
