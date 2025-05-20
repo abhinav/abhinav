@@ -15,9 +15,9 @@ I'm Abhinav.
 
 
 - [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (4 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
 - [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (1 week ago)
