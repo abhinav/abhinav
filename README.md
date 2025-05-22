@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [facebook/dotslash](https://github.com/facebook/dotslash) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (6 days ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (2 weeks ago)
 - [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 weeks ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
+- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
