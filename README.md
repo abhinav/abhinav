@@ -14,7 +14,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
@@ -22,7 +23,6 @@ I'm Abhinav.
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 weeks ago)
 - [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 weeks ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (3 weeks ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (3 weeks ago)
-- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (3 weeks ago)
+- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
