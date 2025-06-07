@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (1 day ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (5 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
+- [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (2 days ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) (2 weeks ago)
