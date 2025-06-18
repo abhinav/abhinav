@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/silog-go](https://github.com/abhinav/silog-go) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (1 week ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
