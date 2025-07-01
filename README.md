@@ -14,13 +14,13 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (4 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
+- [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (5 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (2 weeks ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (3 weeks ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (4 weeks ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 month ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) (1 month ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 month ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 month ago)
