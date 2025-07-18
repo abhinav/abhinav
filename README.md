@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (today)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (3 weeks ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 month ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (1 month ago)
