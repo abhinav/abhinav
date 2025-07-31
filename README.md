@@ -21,7 +21,7 @@ I'm Abhinav.
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (1 month ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 month ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (1 month ago)
-- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (1 month ago)
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 months ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) (2 months ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 months ago)
 
