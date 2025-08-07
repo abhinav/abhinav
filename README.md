@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (3 weeks ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 weeks ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (1 month ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 month ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (2 months ago)
