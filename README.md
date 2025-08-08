@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
+- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (today)
+- [bazel-contrib/rules_oci](https://github.com/bazel-contrib/rules_oci) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (3 weeks ago)
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) (1 month ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 month ago)
 - [abhinav/libcmark-gfm.zig](https://github.com/abhinav/libcmark-gfm.zig) (2 months ago)
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) (2 months ago)
-- [facebook/dotslash](https://github.com/facebook/dotslash) (2 months ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
