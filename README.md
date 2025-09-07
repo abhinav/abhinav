@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (5 days ago)
-- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (5 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (6 days ago)
+- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (6 days ago)
 - [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
