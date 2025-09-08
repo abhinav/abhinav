@@ -15,14 +15,14 @@ I'm Abhinav.
 
 
 - [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (6 days ago)
-- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (1 week ago)
+- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (1 week ago)
 - [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 week ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
