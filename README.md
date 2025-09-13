@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (1 week ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 days ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (1 week ago)
-- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (1 week ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (1 week ago)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 weeks ago)
+- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (1 week ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 weeks ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 weeks ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 weeks ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 weeks ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
