@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/fx](https://github.com/uber-go/fx) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (5 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (4 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (6 days ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (2 weeks ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 weeks ago)
 - [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 weeks ago)
