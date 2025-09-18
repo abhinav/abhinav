@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [uber-go/fx](https://github.com/uber-go/fx) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (4 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [uber-go/fx](https://github.com/uber-go/fx) (4 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (2 weeks ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 weeks ago)
 - [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (2 weeks ago)
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 weeks ago)
-- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 weeks ago)
+- [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (3 weeks ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
