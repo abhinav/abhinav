@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 week ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (3 weeks ago)
 - [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (3 weeks ago)
