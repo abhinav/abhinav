@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 week ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 weeks ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (3 weeks ago)
