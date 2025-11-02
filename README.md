@@ -15,7 +15,7 @@ I'm Abhinav.
 
 
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [uber-go/mock](https://github.com/uber-go/mock) (4 weeks ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 month ago)
