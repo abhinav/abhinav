@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 day ago)
-- [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (2 days ago)
+- [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (2 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [uber-go/mock](https://github.com/uber-go/mock) (1 month ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 month ago)
 - [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 month ago)
