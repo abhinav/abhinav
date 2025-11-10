@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
-- [abhinav/silog-go](https://github.com/abhinav/silog-go) (5 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (6 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 week ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 - [uber-go/mock](https://github.com/uber-go/mock) (1 month ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (1 month ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (1 month ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 months ago)
+- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 months ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (2 months ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (2 months ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
