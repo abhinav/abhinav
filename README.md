@@ -14,7 +14,7 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (1 week ago)
