@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/go-library](https://github.com/abhinav/go-library) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
-- [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 week ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/go-library](https://github.com/abhinav/go-library) (4 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (2 weeks ago)
 - [abhinav/stitchmd-action](https://github.com/abhinav/stitchmd-action) (2 weeks ago)
 - [uber-go/mock](https://github.com/uber-go/mock) (1 month ago)
 - [uber-go/fx](https://github.com/uber-go/fx) (2 months ago)
-- [abhinav/temp.zig](https://github.com/abhinav/temp.zig) (2 months ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
