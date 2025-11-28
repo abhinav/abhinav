@@ -14,8 +14,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (1 week ago)
 - [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
