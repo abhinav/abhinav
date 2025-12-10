@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
+- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 day ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 day ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
-- [abhinav/goldmark-hashtag](https://github.com/abhinav/goldmark-hashtag) (2 days ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 days ago)
-- [abhinav/goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) (2 days ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (2 days ago)
-- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (2 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (2 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [abhinav/goldmark-anchor](https://github.com/abhinav/goldmark-anchor) (3 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (3 days ago)
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) (3 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
