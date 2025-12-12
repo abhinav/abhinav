@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 day ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 day ago)
+- [abhinav/test-repo](https://github.com/abhinav/test-repo) (2 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (2 days ago)
-- [abhinav/silog-go](https://github.com/abhinav/silog-go) (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (3 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (3 days ago)
-- [abhinav/huffman-go](https://github.com/abhinav/huffman-go) (4 days ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (4 days ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (4 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (4 days ago)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (4 days ago)
+- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (5 days ago)
+- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (5 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (5 days ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
