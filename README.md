@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (3 days ago)
-- [abhinav/test-repo](https://github.com/abhinav/test-repo) (5 days ago)
-- [abhinav/silog-go](https://github.com/abhinav/silog-go) (6 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
+- [abhinav/test-repo](https://github.com/abhinav/test-repo) (6 days ago)
+- [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
