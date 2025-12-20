@@ -15,14 +15,14 @@ I'm Abhinav.
 
 
 - [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (5 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (6 days ago)
+- [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (6 days ago)
 - [abhinav/test-repo](https://github.com/abhinav/test-repo) (1 week ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 week ago)
-- [abhinav/goldmark-toc](https://github.com/abhinav/goldmark-toc) (1 week ago)
-- [abhinav/ioutil-go](https://github.com/abhinav/ioutil-go) (1 week ago)
+- [abhinav/ring-go](https://github.com/abhinav/ring-go) (1 week ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
