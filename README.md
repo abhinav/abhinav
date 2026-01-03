@@ -14,8 +14,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
 - [abhinav/go-library](https://github.com/abhinav/go-library) (1 week ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (2 weeks ago)
 - [abhinav/txtar.zig](https://github.com/abhinav/txtar.zig) (2 weeks ago)
