@@ -14,8 +14,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (5 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (6 days ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/go-library](https://github.com/abhinav/go-library) (1 month ago)
 - [cognitedata/bazel-snapshots](https://github.com/cognitedata/bazel-snapshots) (1 month ago)
