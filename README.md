@@ -14,9 +14,9 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 days ago)
-- [hexops/autogold](https://github.com/hexops/autogold) (3 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (4 days ago)
+- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (4 days ago)
+- [hexops/autogold](https://github.com/hexops/autogold) (4 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
 - [abhinav/go-library](https://github.com/abhinav/go-library) (1 month ago)
