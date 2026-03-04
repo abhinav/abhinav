@@ -14,10 +14,10 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/home](https://github.com/abhinav/home) (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/home](https://github.com/abhinav/home) (4 days ago)
 - [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 week ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 weeks ago)
 - [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (3 weeks ago)
 - [hexops/autogold](https://github.com/hexops/autogold) (3 weeks ago)
