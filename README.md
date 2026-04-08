@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 day ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/doc2go](https://github.com/abhinav/doc2go) (3 days ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
 - [vito/midterm](https://github.com/vito/midterm) (4 weeks ago)
 - [abhinav/renovate-config](https://github.com/abhinav/renovate-config) (1 month ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 month ago)
