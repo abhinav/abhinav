@@ -14,8 +14,8 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/renovate-config](https://github.com/abhinav/renovate-config) (4 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/renovate-config](https://github.com/abhinav/renovate-config) (5 days ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [abhinav/home](https://github.com/abhinav/home) (1 week ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (1 week ago)
