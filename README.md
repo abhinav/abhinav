@@ -14,15 +14,15 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (2 days ago)
+- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (1 day ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/renovate-config](https://github.com/abhinav/renovate-config) (1 week ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
-- [abhinav/home](https://github.com/abhinav/home) (1 week ago)
+- [abhinav/home](https://github.com/abhinav/home) (2 weeks ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 weeks ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 weeks ago)
 - [vito/midterm](https://github.com/vito/midterm) (1 month ago)
 - [abhinav/silog-go](https://github.com/abhinav/silog-go) (1 month ago)
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield) (2 months ago)
-- [abhinav/goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) (2 months ago)
 
 <sub>Readme powered by [markscribe](https://github.com/muesli/markscribe).</sub>
