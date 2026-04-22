@@ -14,11 +14,11 @@ I'm Abhinav.
 ### 🪵 Ongoing work
 
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) (1 day ago)
-- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (2 days ago)
-- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (2 days ago)
-- [abhinav/home](https://github.com/abhinav/home) (5 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) (1 day ago)
+- [abhinav/homebrew-tap](https://github.com/abhinav/homebrew-tap) (3 days ago)
+- [abhinav/goldmark-frontmatter](https://github.com/abhinav/goldmark-frontmatter) (3 days ago)
+- [abhinav/home](https://github.com/abhinav/home) (6 days ago)
 - [abhinav/renovate-config](https://github.com/abhinav/renovate-config) (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) (2 weeks ago)
